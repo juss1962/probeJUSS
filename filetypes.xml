@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="awfulpoetry1" type="Python" />
       <mapping pattern="average2" type="Python" />
+      <mapping pattern="awfulpoetry" type="Python" />
     </extensionMap>
   </component>
 </application>
